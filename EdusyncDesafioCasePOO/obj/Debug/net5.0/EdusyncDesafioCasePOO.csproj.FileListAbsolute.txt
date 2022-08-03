@@ -1,0 +1,16 @@
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\bin\Debug\net5.0\EdusyncDesafioCasePOO.exe
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\bin\Debug\net5.0\EdusyncDesafioCasePOO.deps.json
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\bin\Debug\net5.0\EdusyncDesafioCasePOO.runtimeconfig.json
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\bin\Debug\net5.0\EdusyncDesafioCasePOO.runtimeconfig.dev.json
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\bin\Debug\net5.0\EdusyncDesafioCasePOO.dll
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\bin\Debug\net5.0\EdusyncDesafioCasePOO.pdb
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.AssemblyInfo.cs
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.dll
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\refint\EdusyncDesafioCasePOO.dll
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.pdb
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\EdusyncDesafioCasePOO.genruntimeconfig.cache
+C:\Users\giova\source\repos\EdusyncDesafioCasePOO\obj\Debug\net5.0\ref\EdusyncDesafioCasePOO.dll
